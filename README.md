@@ -1,4 +1,3 @@
-<a> ![image](https://github.com/Cashcue/Cashcue/assets/154459475/0a050a2b-d0b6-41b1-8870-6b7045c2459b) </a>
 <br>
 ### Cashcue
 <br>
