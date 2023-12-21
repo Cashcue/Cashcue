@@ -10,6 +10,7 @@ CashCue is on a mission to revolutionize personal finance management by empoweri
 ### Purpose
 CashCue was born with the main objective of empowering users in managing personal finances. The app is designed to provide an in-depth understanding of financial behavior through innovative analytical features. Through the categorization of spending habits as frugal, average, or extravagant, CashCue provides deep insights, helping users better plan their finances. Efficiency in spending monitoring is realized through the payment scanning feature, allowing users to easily integrate transactions into financial data. CashCue not only presents up-to-date information, but also goes a step further with accurate financial predictions, powered by AI integration. Through customized financial education and global community building within the app, CashCue aims to improve users' financial literacy and create a supportive collaborative environment.
 
+
 ## Tech Stack
 To build this application and website, we use the following main frameworks/libraries:
 - Python
@@ -17,4 +18,15 @@ To build this application and website, we use the following main frameworks/libr
 - MobileNetV2 ( for transfer learning )
 - Android Studio
 - Google Cloud PLatform
+
+## Contributor
+
+Bangkit 2023 Capstone Team CH2-PS103
+Alifia Mustika Sari – University of PGRI Madiun - Machine Learning 
+Fadel Amili - University of Muhammadiyah Jakarta - Machine Learning 
+Swastika Pradnya Kusuma - University of Amikom Yogyakarta - Machine Learning  
+Azza Farah Nabila - University of Gadjah Mada - Cloud Computing 
+Fasya Emilia -University of Gadjah Mada - Cloud Computing 
+Ferdi Gusnanto - STMIK IKMI Cirebon - Mobile Development 
+Inayah Aulia Maharani - University of Mercu Buana Yogyakarta - Mobile Development 
 
