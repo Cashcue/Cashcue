@@ -1,6 +1,3 @@
-<img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/logo.jpg" align='center'></img>
-
-
 <H1>Cashcue</H1>
 
 
