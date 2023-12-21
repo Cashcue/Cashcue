@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="#"><img src='https://github.com/Cashcue/.github/edit/main/logo.jpg' alt="Markdownify" width="200"></a>
+  <a href="#"><img src='logo.jpg' alt="Markdownify" width="200"></a>
   <br>
 Cashcue  <br>
 
