@@ -1,3 +1,5 @@
+<img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/logo.jpg" align='center'></img>
+
 <br>
 ### Cashcue
 <br>
@@ -7,6 +9,11 @@ CashCue is on a mission to revolutionize personal finance management by empoweri
 
 ### Purpose
 CashCue was born with the main objective of empowering users in managing personal finances. The app is designed to provide an in-depth understanding of financial behavior through innovative analytical features. Through the categorization of spending habits as frugal, average, or extravagant, CashCue provides deep insights, helping users better plan their finances. Efficiency in spending monitoring is realized through the payment scanning feature, allowing users to easily integrate transactions into financial data. CashCue not only presents up-to-date information, but also goes a step further with accurate financial predictions, powered by AI integration. Through customized financial education and global community building within the app, CashCue aims to improve users' financial literacy and create a supportive collaborative environment.
+
+### Application
+<img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/1.jpg"></img>
+<img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/9.jpg"></img>
+<img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/7.jpg"></img>
 
 
 ## Tech Stack
