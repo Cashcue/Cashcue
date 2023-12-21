@@ -14,7 +14,7 @@ CashCue was born with the main objective of empowering users in managing persona
 <img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/1.jpg"></img>
 <img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/9.jpg"></img>
 <img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/7.jpg"></img>
-<img src="https://github.com/Cashcue/.github/blob/25666862804983bcb9297e4b69446b34ba352877/8.jpg"></img>
+<img src="https://github.com/Cashcue/.github/blob/04f705d1d9cc9e95c77f77ad371c12d4a54478e6/8.jpg"></img>
 
 
 ## Tech Stack
