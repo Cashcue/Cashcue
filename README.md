@@ -1,7 +1,7 @@
-![image](https://github.com/Cashcue/Cashcue/assets/154459475/ac7e5b68-dfec-43c2-9a02-f3039bf117ec)<h1 align="center">
-  <br>
-  <br>
-Cashcue  <br>
+<a> ![image](https://github.com/Cashcue/Cashcue/assets/154459475/0a050a2b-d0b6-41b1-8870-6b7045c2459b) </a>
+<br>
+### Cashcue
+<br>
 
 ### Background
 CashCue is on a mission to revolutionize personal finance management by empowering users with comprehensive insights into their financial behaviors. Through innovative features like behavioral financial analysis, payment scan for efficient expense tracking, and predictive financial insights powered by AI, CashCue aims to provide users with a user-friendly and intuitive platform. Beyond tracking, the app is committed to enhancing financial literacy through personalized education. The planned Global Community tab fosters a collaborative space, creating a community of users supporting each other in their financial journeys. CashCue seeks to redefine the way individuals manage their finances, promoting financial empowerment and informed decision-making.
