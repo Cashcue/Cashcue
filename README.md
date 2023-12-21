@@ -1,6 +1,5 @@
-<h1 align="center">
+![image](https://github.com/Cashcue/Cashcue/assets/154459475/ac7e5b68-dfec-43c2-9a02-f3039bf117ec)<h1 align="center">
   <br>
-  <a href="#"><img src='logo.jpg' alt="Markdownify" width="200"></a>
   <br>
 Cashcue  <br>
 
