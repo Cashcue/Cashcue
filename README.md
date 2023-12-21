@@ -22,11 +22,11 @@ To build this application and website, we use the following main frameworks/libr
 ## Contributor
 
 Bangkit 2023 Capstone Team CH2-PS103
-Alifia Mustika Sari – University of PGRI Madiun - Machine Learning 
-Fadel Amili - University of Muhammadiyah Jakarta - Machine Learning 
-Swastika Pradnya Kusuma - University of Amikom Yogyakarta - Machine Learning  
-Azza Farah Nabila - University of Gadjah Mada - Cloud Computing 
-Fasya Emilia -University of Gadjah Mada - Cloud Computing 
-Ferdi Gusnanto - STMIK IKMI Cirebon - Mobile Development 
-Inayah Aulia Maharani - University of Mercu Buana Yogyakarta - Mobile Development 
+- Alifia Mustika Sari – University of PGRI Madiun - Machine Learning 
+- Fadel Amili - University of Muhammadiyah Jakarta - Machine Learning 
+- Swastika Pradnya Kusuma - University of Amikom Yogyakarta - Machine Learning  
+- Azza Farah Nabila - University of Gadjah Mada - Cloud Computing 
+- Fasya Emilia -University of Gadjah Mada - Cloud Computing 
+- Ferdi Gusnanto - STMIK IKMI Cirebon - Mobile Development 
+- Inayah Aulia Maharani - University of Mercu Buana Yogyakarta - Mobile Development 
 
